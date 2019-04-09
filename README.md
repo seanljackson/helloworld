@@ -1,11 +1,9 @@
 # helloworld
 Hello World -- classic intro to programming, implemented in Java
 
-Eclipse Java project consisting of four files:  
-    HelloAll.java
-    HelloEveryone.java
-    HelloWorld.java
-    HelloYou.java
+Eclipse Java project consisting of four files: HelloAll.java; HelloEveryone.java;
+HelloWorld.java; HelloYou.java
+
 These four files introduce very basic concepts to the new Java programmer.  They are meant to 
 be looked at in order, since one file builds on the next.  The files are listed below in the 
 proper sequential orer.  They are each standalone classes and there are instructions to 
@@ -16,10 +14,6 @@ build and run the classes on the command line.
     Hello World is the traditional first program written in a programming
     language.  It is a simple, introductory program that prints a line to the
     terminal.  Here it is implemented in Java.
-
-    This header comment uses the block style which starts with a slash+asterick
-    and is closed with an asterick+slash.  In the method main() there is an
-    inline comment, which starts with a slash+slash.
 
     Java is an object-oriented language, and its objects are called classes.
     In this example, the class is HelloWorld.  If the class is to be executed
